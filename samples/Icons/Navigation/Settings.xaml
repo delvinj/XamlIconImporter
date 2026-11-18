@@ -1,0 +1,4 @@
+<Canvas xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Width="24" Height="24">
+    <Ellipse Canvas.Left="3" Canvas.Top="3" Width="18" Height="18" Stroke="Black" StrokeThickness="2"/>
+    <Ellipse Canvas.Left="9" Canvas.Top="9" Width="6" Height="6" Fill="Black"/>
+</Canvas>
